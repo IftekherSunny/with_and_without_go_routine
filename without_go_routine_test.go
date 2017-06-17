@@ -1,4 +1,4 @@
-package with_and_without_go_routine
+package example
 
 import (
 	"testing"
